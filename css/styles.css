@@ -31,7 +31,7 @@
   --warning: #822;
   --danger: #525252;
   --light: #ddd;
-  --dark: #333;
+  --dark: black;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -1293,19 +1293,19 @@ pre {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c6c6c6; }
+  background-color: #b8b8b8; }
 
 .table-dark th,
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-  border-color: #959595; }
+  border-color: #7a7a7a; }
 
 .table-hover .table-dark:hover {
-  background-color: #b9b9b9; }
+  background-color: #ababab; }
   .table-hover .table-dark:hover > td,
   .table-hover .table-dark:hover > th {
-    background-color: #b9b9b9; }
+    background-color: #ababab; }
 
 .table-active,
 .table-active > th,
@@ -1959,29 +1959,29 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #333;
-  border-color: #333; }
+  background-color: black;
+  border-color: black; }
   .btn-dark:hover {
     color: #fff;
-    background-color: #202020;
-    border-color: #1a1a1a; }
+    background-color: black;
+    border-color: black; }
   .btn-dark:focus, .btn-dark.focus {
     color: #fff;
-    background-color: #202020;
-    border-color: #1a1a1a;
-    box-shadow: 0 0 0 0.2rem rgba(82, 82, 82, 0.5); }
+    background-color: black;
+    border-color: black;
+    box-shadow: 0 0 0 0.2rem rgba(38, 38, 38, 0.5); }
   .btn-dark.disabled, .btn-dark:disabled {
     color: #fff;
-    background-color: #333;
-    border-color: #333; }
+    background-color: black;
+    border-color: black; }
   .btn-dark:not(:disabled):not(.disabled):active, .btn-dark:not(:disabled):not(.disabled).active,
   .show > .btn-dark.dropdown-toggle {
     color: #fff;
-    background-color: #1a1a1a;
-    border-color: #131313; }
+    background-color: black;
+    border-color: black; }
     .btn-dark:not(:disabled):not(.disabled):active:focus, .btn-dark:not(:disabled):not(.disabled).active:focus,
     .show > .btn-dark.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(82, 82, 82, 0.5); }
+      box-shadow: 0 0 0 0.2rem rgba(38, 38, 38, 0.5); }
 
 .btn-outline-primary {
   color: #D9CFBB;
@@ -2131,25 +2131,25 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(221, 221, 221, 0.5); }
 
 .btn-outline-dark {
-  color: #333;
-  border-color: #333; }
+  color: black;
+  border-color: black; }
   .btn-outline-dark:hover {
     color: #fff;
-    background-color: #333;
-    border-color: #333; }
+    background-color: black;
+    border-color: black; }
   .btn-outline-dark:focus, .btn-outline-dark.focus {
-    box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5); }
   .btn-outline-dark.disabled, .btn-outline-dark:disabled {
-    color: #333;
+    color: black;
     background-color: transparent; }
   .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active,
   .show > .btn-outline-dark.dropdown-toggle {
     color: #fff;
-    background-color: #333;
-    border-color: #333; }
+    background-color: black;
+    border-color: black; }
     .btn-outline-dark:not(:disabled):not(.disabled):active:focus, .btn-outline-dark:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-dark.dropdown-toggle:focus {
-      box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.5); }
+      box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5); }
 
 .btn-link {
   font-weight: 400;
@@ -3669,13 +3669,13 @@ input[type="button"].btn-block {
 
 .badge-dark {
   color: #fff;
-  background-color: #333; }
+  background-color: black; }
   a.badge-dark:hover, a.badge-dark:focus {
     color: #fff;
-    background-color: #1a1a1a; }
+    background-color: black; }
   a.badge-dark:focus, a.badge-dark.focus {
     outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(51, 51, 51, 0.5); }
+    box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5); }
 
 .jumbotron {
   padding: 2rem 1rem;
@@ -3778,13 +3778,13 @@ input[type="button"].btn-block {
     color: #5a5a5a; }
 
 .alert-dark {
-  color: #1b1b1b;
-  background-color: #d6d6d6;
-  border-color: #c6c6c6; }
+  color: black;
+  background-color: #cccccc;
+  border-color: #b8b8b8; }
   .alert-dark hr {
-    border-top-color: #b9b9b9; }
+    border-top-color: #ababab; }
   .alert-dark .alert-link {
-    color: #020202; }
+    color: black; }
 
 @keyframes progress-bar-stripes {
   from {
@@ -4053,15 +4053,15 @@ input[type="button"].btn-block {
     border-color: #737373; }
 
 .list-group-item-dark {
-  color: #1b1b1b;
-  background-color: #c6c6c6; }
+  color: black;
+  background-color: #b8b8b8; }
   .list-group-item-dark.list-group-item-action:hover, .list-group-item-dark.list-group-item-action:focus {
-    color: #1b1b1b;
-    background-color: #b9b9b9; }
+    color: black;
+    background-color: #ababab; }
   .list-group-item-dark.list-group-item-action.active {
     color: #fff;
-    background-color: #1b1b1b;
-    border-color: #1b1b1b; }
+    background-color: black;
+    border-color: black; }
 
 .close {
   float: right;
@@ -4742,12 +4742,12 @@ button.bg-light:focus {
   background-color: #c4c4c4 !important; }
 
 .bg-dark {
-  background-color: #333 !important; }
+  background-color: black !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #1a1a1a !important; }
+  background-color: black !important; }
 
 .bg-white {
   background-color: #fff !important; }
@@ -4807,7 +4807,7 @@ button.bg-dark:focus {
   border-color: #ddd !important; }
 
 .border-dark {
-  border-color: #333 !important; }
+  border-color: black !important; }
 
 .border-white {
   border-color: #fff !important; }
@@ -7064,10 +7064,10 @@ a.text-light:hover, a.text-light:focus {
   color: #b7b7b7 !important; }
 
 .text-dark {
-  color: #333 !important; }
+  color: black !important; }
 
 a.text-dark:hover, a.text-dark:focus {
-  color: #0d0d0d !important; }
+  color: black !important; }
 
 .text-body {
   color: #212529 !important; }
@@ -7178,6 +7178,10 @@ ul ol {
   /* Bokse har altid den størrelse man giver uanset om der tilføjes margen, padding mv. */ }
 
 /* Ovenstående kode kan give problemer ved nogle 3. parts scripts man henter. Men det gør det nemmere at forstå og lave kodning når man starter. */
+body, html {
+  height: 100% !important;
+  scroll-behavior: smooth !important; }
+
 body {
   margin: 0;
   /* Ingen kanter i siden af browser */ }
@@ -7219,17 +7223,41 @@ img {
   color: white; }
 
 #logo {
-  height: 50px !important; }
+  height: 45px !important; }
 
-.nav-link img {
-  display: none !important; }
+.menu-lg img {
+  border-radius: 50% !important; }
 
-.login {
-  display: none !important; }
+p {
+  text-align: center !important;
+  margin-top: 5px !important;
+  font-size: 16px !important; }
 
-.navbar {
-  position: absolute !important;
-  margin: auto !important; }
+.bg {
+  /* The image used */
+  background-image: url("images/photo-1513694203232-719a280e022f.jpg");
+  /* Full height */
+  height: 100%;
+  width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.banner {
+  background-color: #D9CFBB;
+  margin-top: 235px !important;
+  border: 2px solid black;
+  opacity: 90%;
+  font-weight: bold; }
+
+.bannertext {
+  font-size: 20px !important; }
+
+hr {
+  height: 3px !important;
+  width: 25%;
+  background-color: black !important; }
 
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
@@ -7240,14 +7268,25 @@ img {
 @media screen and (min-width: 768px) {
   #logo {
     height: 75px !important;
-    text-align: center !important; } }
+    text-align: center !important; }
+  .banner {
+    margin-top: 300px !important;
+    opacity: 80%; }
+  .bannertext {
+    font-size: 35px !important; } }
 
 /* Her henter vi vores computer version _tablet.scss */
 /* Her har vi styles til vores computer version */
 /* ------------------------------------------------------------- */
 @media screen and (min-width: 980px) {
   #logo {
-    height: 100px !important; } }
+    height: 100px !important; }
+  .banner {
+    margin-top: 250px !important;
+    opacity: 80%; }
+  .bannertext {
+    font-size: 35px !important;
+    width: 75%; } }
 
 /* EGEN RESPONSIVE CSS SLUT */
 /* ------------------------------------------------------------- */
