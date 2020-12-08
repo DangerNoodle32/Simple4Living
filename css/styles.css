@@ -7259,6 +7259,9 @@ hr {
   width: 25%;
   background-color: black !important; }
 
+.control {
+  height: 100px !important; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7273,7 +7276,10 @@ hr {
     margin-top: 300px !important;
     opacity: 80%; }
   .bannertext {
-    font-size: 35px !important; } }
+    font-size: 35px !important; }
+  .nyheder img {
+    height: 350px !important;
+    width: auto !important; } }
 
 /* Her henter vi vores computer version _tablet.scss */
 /* Her har vi styles til vores computer version */
@@ -7286,7 +7292,12 @@ hr {
     opacity: 80%; }
   .bannertext {
     font-size: 35px !important;
-    width: 75%; } }
+    width: 75%; }
+  .nyheder img {
+    height: 450px !important;
+    width: auto !important; }
+  .control {
+    height: 150px !important; } }
 
 /* EGEN RESPONSIVE CSS SLUT */
 /* ------------------------------------------------------------- */
