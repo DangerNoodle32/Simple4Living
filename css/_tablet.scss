@@ -1,0 +1,12 @@
+/* Her har vi styles til vores tablet version */
+/* ------------------------------------------------------------- */
+
+$tablet: "screen and (min-width: 768px)";
+@media #{$tablet} {
+
+  #logo{
+    height: 75px!important;
+    text-align: center!important;
+  }
+
+}
