@@ -20,20 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/belysning.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/boligtilbehør.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/borde.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/musthave4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/musthave5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/musthave6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/opbevaring.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/seng.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musthave1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musthave2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/musthave3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nyheder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/senge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/stole.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_computer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_computer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/_tablet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_tablet.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/belysning.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/belysning.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/borde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/borde.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/seng.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gulp.js.styles" />
         <item itemvalue="Gulp.js.watch" />
+        <item itemvalue="Gulp.js.styles" />
         <item itemvalue="Gulp.js.default" />
         <item itemvalue="Gulp.js.build" />
         <item itemvalue="Gulp.js.js" />
@@ -150,7 +150,8 @@
       <updated>1607441199195</updated>
       <workItem from="1607441200371" duration="7028000" />
       <workItem from="1607448471653" duration="1647000" />
-      <workItem from="1607501476547" duration="5092000" />
+      <workItem from="1607501476547" duration="9530000" />
+      <workItem from="1607512844655" duration="3696000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607449101607</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op">
+      <created>1607507664425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607507664426</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +196,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Banner sat ind&#10;Slideshow med nyheder igangsat" />
     <MESSAGE value="Slideshow sat op&#10;mangler bare korrekte billeder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slideshow sat op&#10;mangler bare korrekte billeder" />
+    <MESSAGE value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
   </component>
 </project>

@@ -7226,7 +7226,9 @@ img {
   height: 45px !important; }
 
 .menu-lg img {
-  border-radius: 50% !important; }
+  border-radius: 30px !important;
+  height: 200px !important;
+  width: 180px !important; }
 
 p {
   text-align: center !important;
@@ -7266,6 +7268,9 @@ hr {
   height: 350px !important;
   width: auto !important; }
 
+button {
+  border-radius: 50px !important; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7299,14 +7304,12 @@ hr {
     opacity: 80%; }
   .bannertext {
     font-size: 35px !important;
-    width: 75%; }
+    width: 85%; }
   .nyheder img {
     height: 650px !important;
     width: auto !important; }
-  .control {
-    height: 150px !important; }
-  .musthave img {
-    height: 350px !important;
+  .musthaveimg img {
+    height: auto !important;
     width: auto !important; } }
 
 /* EGEN RESPONSIVE CSS SLUT */

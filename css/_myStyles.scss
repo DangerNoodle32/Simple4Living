@@ -53,7 +53,9 @@ img {
 }
 
 .menu-lg img{
-  border-radius: 50% !important;
+  border-radius: 30px!important;
+  height: 200px!important;
+  width: 180px!important;
 }
 
 p {
@@ -98,7 +100,11 @@ hr{
   height: 100px!important;
 }
 
-.musthave-sm img{
-  height: 350px!important;
-  width: auto!important;
+.musthave-sm img {
+  height: 350px !important;
+  width: auto !important;
+}
+
+button{
+  border-radius: 50px!important;
 }

@@ -15,7 +15,7 @@ $computer: "screen and (min-width: 980px)";
 
   .bannertext{
     font-size: 35px!important;
-    width: 75%;
+    width: 85%;
   }
 
   .nyheder img{
@@ -23,12 +23,8 @@ $computer: "screen and (min-width: 980px)";
     width: auto!important;
   }
 
-  .control{
-    height: 150px!important;
-  }
-
-  .musthave img{
-    height: 350px!important;
+  .musthaveimg img{
+    height: auto!important;
     width: auto!important;
   }
 
