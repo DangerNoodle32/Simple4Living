@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +133,7 @@
       <updated>1607441199195</updated>
       <workItem from="1607441200371" duration="7028000" />
       <workItem from="1607448471653" duration="1712000" />
-      <workItem from="1607528778915" duration="327000" />
+      <workItem from="1607528778915" duration="1270000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607450166570</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="næste section indsat">
+      <created>1607529361534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607529361534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,13 +185,14 @@
     <MESSAGE value="Banner sat ind&#10;Slideshow med nyheder igangsat" />
     <MESSAGE value="Slideshow sat op&#10;mangler bare korrekte billeder" />
     <MESSAGE value="Forrige og næste buttons i slideshow tilpasset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forrige og næste buttons i slideshow tilpasset" />
+    <MESSAGE value="næste section indsat" />
+    <option name="LAST_COMMIT_MESSAGE" value="næste section indsat" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1607450165693">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1607529360608">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450165693" />
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607529360608" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607443295592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -240,10 +249,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607528828175" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607450188348">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607529362769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450188348" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607529362769" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607528784693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
