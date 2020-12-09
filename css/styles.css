@@ -7262,6 +7262,10 @@ hr {
 .control {
   height: 100px !important; }
 
+.musthave-sm img {
+  height: 350px !important;
+  width: auto !important; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7279,6 +7283,9 @@ hr {
     font-size: 35px !important; }
   .nyheder img {
     height: 350px !important;
+    width: auto !important; }
+  .musthave-md img {
+    height: 350px !important;
     width: auto !important; } }
 
 /* Her henter vi vores computer version _tablet.scss */
@@ -7288,16 +7295,19 @@ hr {
   #logo {
     height: 100px !important; }
   .banner {
-    margin-top: 250px !important;
+    margin-top: 150px !important;
     opacity: 80%; }
   .bannertext {
     font-size: 35px !important;
     width: 75%; }
   .nyheder img {
-    height: 450px !important;
+    height: 650px !important;
     width: auto !important; }
   .control {
-    height: 150px !important; } }
+    height: 150px !important; }
+  .musthave img {
+    height: 350px !important;
+    width: auto !important; } }
 
 /* EGEN RESPONSIVE CSS SLUT */
 /* ------------------------------------------------------------- */

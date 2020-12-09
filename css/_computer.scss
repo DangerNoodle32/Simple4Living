@@ -9,7 +9,7 @@ $computer: "screen and (min-width: 980px)";
   }
 
   .banner{
-    margin-top: 250px!important;
+    margin-top: 150px!important;
     opacity: 80%;
   }
 
@@ -19,12 +19,17 @@ $computer: "screen and (min-width: 980px)";
   }
 
   .nyheder img{
-    height: 450px!important;
+    height: 650px!important;
     width: auto!important;
   }
 
   .control{
     height: 150px!important;
+  }
+
+  .musthave img{
+    height: 350px!important;
+    width: auto!important;
   }
 
 }
