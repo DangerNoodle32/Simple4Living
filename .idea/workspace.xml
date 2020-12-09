@@ -20,20 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/musthave1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/musthave2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/musthave3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nyheder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/senge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stole.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/_computer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_computer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/belysning.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/belysning.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/borde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/borde.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/seng.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,17 +35,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lNcsw83A7sIZ2PGIp3w8cwDzfS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -149,9 +131,8 @@
       <option name="presentableId" value="Default" />
       <updated>1607441199195</updated>
       <workItem from="1607441200371" duration="7028000" />
-      <workItem from="1607448471653" duration="1647000" />
-      <workItem from="1607501476547" duration="9530000" />
-      <workItem from="1607512844655" duration="3696000" />
+      <workItem from="1607448471653" duration="1712000" />
+      <workItem from="1607528778915" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -167,12 +148,12 @@
       <option name="project" value="LOCAL" />
       <updated>1607449101607</updated>
     </task>
-    <task id="LOCAL-00003" summary="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op">
-      <created>1607507664425</created>
+    <task id="LOCAL-00003" summary="Forrige og næste buttons i slideshow tilpasset">
+      <created>1607450166570</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1607507664426</updated>
+      <updated>1607450166570</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -193,10 +174,79 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Banner sat ind&#10;Slideshow med nyheder igangsat" />
     <MESSAGE value="Slideshow sat op&#10;mangler bare korrekte billeder" />
-    <MESSAGE value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
-    <option name="LAST_COMMIT_MESSAGE" value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
+    <MESSAGE value="Forrige og næste buttons i slideshow tilpasset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forrige og næste buttons i slideshow tilpasset" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1607450165693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450165693" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607443295592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607443295592" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607450197212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450197212" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607450197212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450197212" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607450197212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450197212" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607450197212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450197212" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1607448288355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607448288355" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1607528828175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607528828175" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1607450188348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607450188348" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607528784693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1607528784693" />
   </component>
 </project>
