@@ -21,9 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +141,7 @@
       <workItem from="1607441200371" duration="7028000" />
       <workItem from="1607448471653" duration="1647000" />
       <workItem from="1607501476547" duration="9530000" />
-      <workItem from="1607512844655" duration="13359000" />
+      <workItem from="1607512844655" duration="15700000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607595136112</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Nyhedsbrev tilføjet">
+      <created>1607598037720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607598037720</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +210,7 @@
     <MESSAGE value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
     <MESSAGE value="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder" />
     <MESSAGE value="inspiration tilpasset og gjort responsiv" />
-    <option name="LAST_COMMIT_MESSAGE" value="inspiration tilpasset og gjort responsiv" />
+    <MESSAGE value="Nyhedsbrev tilføjet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nyhedsbrev tilføjet" />
   </component>
 </project>
