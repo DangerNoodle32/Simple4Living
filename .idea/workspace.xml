@@ -138,7 +138,7 @@
       <workItem from="1607441200371" duration="7028000" />
       <workItem from="1607448471653" duration="1647000" />
       <workItem from="1607501476547" duration="9530000" />
-      <workItem from="1607512844655" duration="18266000" />
+      <workItem from="1607512844655" duration="18875000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -196,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607600633633</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;">
+      <created>1607603207877</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607603207877</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Padding ændret ved fragt, retur og support">
+      <created>1607603377159</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607603377159</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +238,8 @@
     <MESSAGE value="Nyhedsbrev tilføjet" />
     <MESSAGE value="Footer sat ind og tilpasset" />
     <MESSAGE value="tekst i footer tilpasset" />
-    <option name="LAST_COMMIT_MESSAGE" value="tekst i footer tilpasset" />
+    <MESSAGE value="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;" />
+    <MESSAGE value="Padding ændret ved fragt, retur og support" />
+    <option name="LAST_COMMIT_MESSAGE" value="Padding ændret ved fragt, retur og support" />
   </component>
 </project>
