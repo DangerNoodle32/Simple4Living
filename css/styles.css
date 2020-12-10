@@ -7236,12 +7236,9 @@ p {
   font-size: 16px !important; }
 
 .bg {
-  /* The image used */
   background-image: url("images/photo-1513694203232-719a280e022f.jpg");
-  /* Full height */
   height: 100%;
   width: 100%;
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -7271,6 +7268,10 @@ hr {
 button {
   border-radius: 50px !important; }
 
+.inspiration {
+  height: auto !important;
+  width: 100% !important; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7291,6 +7292,12 @@ button {
     width: auto !important; }
   .musthave-md img {
     height: 350px !important;
+    width: auto !important; }
+  .inspiration {
+    height: 450px !important;
+    width: 100% !important; }
+  img {
+    height: 100% !important;
     width: auto !important; } }
 
 /* Her henter vi vores computer version _tablet.scss */
@@ -7310,7 +7317,10 @@ button {
     width: auto !important; }
   .musthaveimg img {
     height: auto !important;
-    width: auto !important; } }
+    width: auto !important; }
+  .inspiration {
+    height: 500px !important;
+    width: 100% !important; } }
 
 /* EGEN RESPONSIVE CSS SLUT */
 /* ------------------------------------------------------------- */
