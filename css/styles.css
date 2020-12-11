@@ -7180,17 +7180,20 @@ ul ol {
 /* Ovenstående kode kan give problemer ved nogle 3. parts scripts man henter. Men det gør det nemmere at forstå og lave kodning når man starter. */
 body, html {
   height: 100% !important;
-  scroll-behavior: smooth !important; }
+  scroll-behavior: smooth !important;
+  font-family: Helvetica, serif; }
 
 body {
   margin: 0;
-  /* Ingen kanter i siden af browser */ }
+  /* Ingen kanter i siden af browser */
+  font-family: Helvetica, serif; }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   /* Ingen ydre margen fra overskrifter */
   padding: 0;
-  /* Ingen indre margen fra overskrifter */ }
+  /* Ingen indre margen fra overskrifter */
+  font-family: Helvetica, serif; }
 
 ul, ol {
   margin: 2px 10px 2px 10px;
@@ -7198,7 +7201,8 @@ ul, ol {
   padding: 0;
   /* Ingen indre margen fra lister */
   list-style-position: inside;
-  /* List punkter står på linje */ }
+  /* List punkter står på linje */
+  font-family: Helvetica, serif; }
 
 li {
   margin: 0;
@@ -7208,7 +7212,8 @@ p {
   margin: 0;
   /* Ingen ydre margen fra paragraffer */
   padding: 0;
-  /* Ingen indre margen fra paragraffer */ }
+  /* Ingen indre margen fra paragraffer */
+  font-family: Helvetica, serif; }
 
 /* Sikrer billeder er responsive */
 img {
@@ -7235,21 +7240,6 @@ p {
   margin-top: 5px !important;
   font-size: 16px !important; }
 
-.bg {
-  background-image: url("images/photo-1513694203232-719a280e022f.jpg");
-  height: 100%;
-  width: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover; }
-
-.banner {
-  background-color: #D9CFBB;
-  margin-top: 235px !important;
-  border: 2px solid black;
-  opacity: 90%;
-  font-weight: bold; }
-
 .bannertext {
   font-size: 20px !important; }
 
@@ -7266,7 +7256,8 @@ hr {
   width: auto !important; }
 
 button {
-  border-radius: 50px !important; }
+  border-radius: 50px !important;
+  font-family: Helvetica, serif; }
 
 .inspiration {
   height: auto !important;
@@ -7277,6 +7268,9 @@ footer div {
 
 footer h4 {
   border-bottom: 1px solid white !important; }
+
+.produkt {
+  width: auto !important; }
 
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
@@ -7304,6 +7298,9 @@ footer h4 {
     width: 100% !important; }
   img {
     height: 100% !important;
+    width: auto !important; }
+  .produkt {
+    height: 250px !important;
     width: auto !important; } }
 
 /* Her henter vi vores computer version _tablet.scss */

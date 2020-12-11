@@ -20,7 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/130977067_823477394879257_7206108881520012086_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131029047_794246644471372_2869901354362481546_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131038086_132483718496506_852135765677858811_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131054888_209299887348707_3652722121353477023_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131066467_801265697098556_4625059864334437329_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131080269_810263619548890_4899311015543886652_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131090909_874867953285160_6971658054144378879_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131091441_233584504866806_4698174084284195334_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131091441_442536153415523_8421377621254914943_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131091946_220943219431987_4740435932755277223_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131094358_2939408866287917_6344348199973957321_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131115542_215488530080981_4109885283890628097_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131169219_410508273644263_5202343934910137939_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131204958_717000729201450_2661632591915424679_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131211266_2105567222911127_7647641580627601776_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/131398586_3251281801643520_5610476082143750796_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/forsidebanner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nyhedsbanner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opbevaring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_tablet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_tablet.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +53,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML skabelon" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -138,7 +168,7 @@
       <workItem from="1607441200371" duration="7028000" />
       <workItem from="1607448471653" duration="1647000" />
       <workItem from="1607501476547" duration="9530000" />
-      <workItem from="1607512844655" duration="18875000" />
+      <workItem from="1607512844655" duration="24495000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -210,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607603377159</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Navne tilføjet til &quot;musthave&quot; produkter">
+      <created>1607603903284</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607603903284</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Boks med logo sat længere op på siden">
+      <created>1607604043780</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607604043780</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +284,8 @@
     <MESSAGE value="tekst i footer tilpasset" />
     <MESSAGE value="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;" />
     <MESSAGE value="Padding ændret ved fragt, retur og support" />
-    <option name="LAST_COMMIT_MESSAGE" value="Padding ændret ved fragt, retur og support" />
+    <MESSAGE value="Navne tilføjet til &quot;musthave&quot; produkter" />
+    <MESSAGE value="Boks med logo sat længere op på siden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Boks med logo sat længere op på siden" />
   </component>
 </project>

@@ -11,21 +11,26 @@
 body, html {
   height: 100% !important;
   scroll-behavior: smooth !important;
+  font-family: Helvetica, serif;
 }
 
 body {
   margin: 0; /* Ingen kanter i siden af browser */
+  font-family: Helvetica, serif;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0; /* Ingen ydre margen fra overskrifter */
   padding: 0; /* Ingen indre margen fra overskrifter */
+  font-family: Helvetica, serif;
 }
 
 ul, ol {
   margin: 2px 10px 2px 10px; /* Mindre margen på punkter */
   padding: 0; /* Ingen indre margen fra lister */
   list-style-position: inside; /* List punkter står på linje */
+  font-family: Helvetica, serif;
 }
 
 li {
@@ -35,6 +40,7 @@ li {
 p {
   margin: 0; /* Ingen ydre margen fra paragraffer */
   padding: 0; /* Ingen indre margen fra paragraffer */
+  font-family: Helvetica, serif;
 }
 
 /* Sikrer billeder er responsive */
@@ -64,23 +70,6 @@ p {
   font-size: 16px !important;
 }
 
-.bg {
-  background-image: url("images/photo-1513694203232-719a280e022f.jpg");
-  height: 100%;
-  width: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.banner {
-  background-color: #D9CFBB;
-  margin-top: 235px !important;
-  border: 2px solid black;
-  opacity: 90%;
-  font-weight: bold;
-}
-
 .bannertext {
   font-size: 20px !important;
 }
@@ -102,6 +91,7 @@ hr{
 
 button{
   border-radius: 50px!important;
+  font-family: Helvetica, serif;
 }
 
 .inspiration {
@@ -115,4 +105,8 @@ footer div {
 
 footer h4{
   border-bottom: 1px solid white!important;
+}
+
+.produkt{
+  width: auto!important;
 }
