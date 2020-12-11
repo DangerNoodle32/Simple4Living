@@ -7269,9 +7269,6 @@ footer div {
 footer h4 {
   border-bottom: 1px solid white !important; }
 
-.produkt {
-  width: auto !important; }
-
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7299,9 +7296,11 @@ footer h4 {
   img {
     height: 100% !important;
     width: auto !important; }
+  .produktbilleder {
+    height: 250px !important; }
   .produkt {
-    height: 250px !important;
-    width: auto !important; } }
+    width: auto !important;
+    height: auto !important; } }
 
 /* Her henter vi vores computer version _tablet.scss */
 /* Her har vi styles til vores computer version */

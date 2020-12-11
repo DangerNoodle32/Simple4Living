@@ -20,31 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/130977067_823477394879257_7206108881520012086_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131029047_794246644471372_2869901354362481546_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131038086_132483718496506_852135765677858811_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131054888_209299887348707_3652722121353477023_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131066467_801265697098556_4625059864334437329_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131080269_810263619548890_4899311015543886652_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131090909_874867953285160_6971658054144378879_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131091441_233584504866806_4698174084284195334_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131091441_442536153415523_8421377621254914943_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131091946_220943219431987_4740435932755277223_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131094358_2939408866287917_6344348199973957321_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131115542_215488530080981_4109885283890628097_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131169219_410508273644263_5202343934910137939_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131204958_717000729201450_2661632591915424679_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131211266_2105567222911127_7647641580627601776_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/131398586_3251281801643520_5610476082143750796_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/forsidebanner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nyhedsbanner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opbevaring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Simple4Living.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Simple4Living.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_tablet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_tablet.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/opbevaring.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +36,16 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML skabelon" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lNcsw83A7sIZ2PGIp3w8cwDzfS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -166,9 +136,11 @@
       <option name="presentableId" value="Default" />
       <updated>1607441199195</updated>
       <workItem from="1607441200371" duration="7028000" />
-      <workItem from="1607448471653" duration="1647000" />
-      <workItem from="1607501476547" duration="9530000" />
-      <workItem from="1607512844655" duration="24495000" />
+      <workItem from="1607448471653" duration="1712000" />
+      <workItem from="1607528778915" duration="1427000" />
+      <workItem from="1607530259088" duration="52000" />
+      <workItem from="1607530358773" duration="17000" />
+      <workItem from="1607709040850" duration="3494000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -184,77 +156,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607449101607</updated>
     </task>
-    <task id="LOCAL-00003" summary="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op">
-      <created>1607507664425</created>
+    <task id="LOCAL-00003" summary="Forrige og næste buttons i slideshow tilpasset">
+      <created>1607450166570</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1607507664426</updated>
+      <updated>1607450166570</updated>
     </task>
-    <task id="LOCAL-00004" summary="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder">
-      <created>1607517339851</created>
+    <task id="LOCAL-00004" summary="næste section indsat">
+      <created>1607529361534</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1607517339851</updated>
+      <updated>1607529361534</updated>
     </task>
-    <task id="LOCAL-00005" summary="inspiration tilpasset og gjort responsiv">
-      <created>1607595136112</created>
+    <task id="LOCAL-00005" summary="alt &quot;#&quot; tilføjet på billeder">
+      <created>1607530196281</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1607595136112</updated>
+      <updated>1607530196281</updated>
     </task>
-    <task id="LOCAL-00006" summary="Nyhedsbrev tilføjet">
-      <created>1607598037720</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1607598037720</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Footer sat ind og tilpasset">
-      <created>1607600492367</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1607600492367</updated>
-    </task>
-    <task id="LOCAL-00008" summary="tekst i footer tilpasset">
-      <created>1607600633633</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1607600633633</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;">
-      <created>1607603207877</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1607603207877</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Padding ændret ved fragt, retur og support">
-      <created>1607603377159</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1607603377159</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Navne tilføjet til &quot;musthave&quot; produkter">
-      <created>1607603903284</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1607603903284</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Boks med logo sat længere op på siden">
-      <created>1607604043780</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1607604043780</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,19 +196,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Banner sat ind&#10;Slideshow med nyheder igangsat" />
     <MESSAGE value="Slideshow sat op&#10;mangler bare korrekte billeder" />
-    <MESSAGE value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
-    <MESSAGE value="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder" />
-    <MESSAGE value="inspiration tilpasset og gjort responsiv" />
-    <MESSAGE value="Nyhedsbrev tilføjet" />
-    <MESSAGE value="Footer sat ind og tilpasset" />
-    <MESSAGE value="tekst i footer tilpasset" />
-    <MESSAGE value="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;" />
-    <MESSAGE value="Padding ændret ved fragt, retur og support" />
-    <MESSAGE value="Navne tilføjet til &quot;musthave&quot; produkter" />
-    <MESSAGE value="Boks med logo sat længere op på siden" />
-    <option name="LAST_COMMIT_MESSAGE" value="Boks med logo sat længere op på siden" />
+    <MESSAGE value="Forrige og næste buttons i slideshow tilpasset" />
+    <MESSAGE value="næste section indsat" />
+    <MESSAGE value="alt &quot;#&quot; tilføjet på billeder" />
+    <option name="LAST_COMMIT_MESSAGE" value="alt &quot;#&quot; tilføjet på billeder" />
   </component>
 </project>
