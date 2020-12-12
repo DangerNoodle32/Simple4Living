@@ -7178,12 +7178,14 @@ ul ol {
   /* Bokse har altid den størrelse man giver uanset om der tilføjes margen, padding mv. */ }
 
 /* Ovenstående kode kan give problemer ved nogle 3. parts scripts man henter. Men det gør det nemmere at forstå og lave kodning når man starter. */
-body, html {
-  height: 100% !important;
-  scroll-behavior: smooth !important;
-  font-family: Helvetica, serif; }
+html {
+  /* To make use of full height of page*/
+  min-height: 100vh !important;
+  margin: 0; }
 
 body {
+  min-height: 100vh !important;
+  position: relative !important;
   margin: 0;
   /* Ingen kanter i siden af browser */
   font-family: Helvetica, serif; }
@@ -7268,6 +7270,11 @@ footer div {
 
 footer h4 {
   border-bottom: 1px solid white !important; }
+
+.card img {
+  height: 300px !important;
+  width: 300px !important;
+  padding: 15px; }
 
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
