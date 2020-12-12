@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/opbevaring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML skabelon" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +56,10 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Gulp.js.build">
+  <component name="RunManager" selected="JavaScript Debug.Kategori-Opbevaring.html">
+    <configuration name="Kategori-Opbevaring.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/Kategori-Opbevaring.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -82,17 +91,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="js" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>js</task>
-      </tasks>
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="styles" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Kategori-Opbevaring.html" />
         <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.styles" />
         <item itemvalue="Gulp.js.default" />
         <item itemvalue="Gulp.js.build" />
-        <item itemvalue="Gulp.js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +137,8 @@
       <workItem from="1607530259088" duration="52000" />
       <workItem from="1607530358773" duration="17000" />
       <workItem from="1607709040850" duration="3791000" />
-      <workItem from="1607757086909" duration="2951000" />
+      <workItem from="1607757086909" duration="3156000" />
+      <workItem from="1607770495702" duration="1848000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -183,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607712848186</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Produkter ændret på opbevaring.html">
+      <created>1607760263833</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607760263833</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +214,7 @@
     <MESSAGE value="næste section indsat" />
     <MESSAGE value="alt &quot;#&quot; tilføjet på billeder" />
     <MESSAGE value="col ændret på produkter under opbevaring.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="col ændret på produkter under opbevaring.html" />
+    <MESSAGE value="Produkter ændret på opbevaring.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Produkter ændret på opbevaring.html" />
   </component>
 </project>
