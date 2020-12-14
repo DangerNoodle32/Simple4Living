@@ -248,7 +248,7 @@
 
             <div class="col-lg-9 border">
 
-                <div class="active description">
+                <div id="description" class="active">
 
                     <div class="content">
 
@@ -267,7 +267,7 @@
 
                 </div>
 
-                <div class="d-none spec">
+                <div id="spec">
 
                     <div class="content">
 
@@ -278,11 +278,11 @@
 
                 </div>
 
-                <div class="d-none care">
+                <div id="care">
 
                     <div class="content">
 
-                        <p>HGshfikshfkshikghkshngkh sklgh slk</p>
+                        <p class="text-left">HGshfikshfkshikghkshngkh sklgh slk</p>
 
                     </div>
 
@@ -375,8 +375,21 @@
 <script>
     $(document).ready(function () {
         $("#tabspec").click(function () {
-            $(".description").hide();
-            $(".spec").show();
+            $("#description").hide();
+            $("#care").hide();
+            $("#spec").show();
+        });
+
+        $("#tabdescription").click(function () {
+            $("#spec").hide();
+            $("#care").hide();
+            $("#description").show();
+        });
+
+        $("#tabcare").click(function () {
+            $("#spec").hide();
+            $("#description").hide();
+            $("#care").show();
         });
     });
 

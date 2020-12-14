@@ -7304,6 +7304,12 @@ footer h4 {
 .product-section li {
   cursor: pointer !important; }
 
+#spec {
+  display: none; }
+
+#care {
+  display: none; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
