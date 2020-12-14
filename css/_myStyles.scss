@@ -146,8 +146,15 @@ footer h4{
   border: 1px solid black;
 }
 
-.product-section li{
-  cursor: pointer!important;
+.product-section div:first-of-type{
+}
+
+.product-section li {
+  cursor: pointer !important;
+}
+
+.product-section li:hover{
+  background-color: #8f836f;
 }
 
 #spec{
@@ -156,4 +163,8 @@ footer h4{
 
 #care{
   display: none;
+}
+
+.price-info-container{
+  border: 3px solid black;
 }

@@ -7304,11 +7304,17 @@ footer h4 {
 .product-section li {
   cursor: pointer !important; }
 
+.product-section li:hover {
+  background-color: #8f836f; }
+
 #spec {
   display: none; }
 
 #care {
   display: none; }
+
+.price-info-container {
+  border: 3px solid black; }
 
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */

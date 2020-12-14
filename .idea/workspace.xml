@@ -22,6 +22,9 @@
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Reoler-Produkt1.html" />
         <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.styles" />
-        <item itemvalue="JavaScript Debug.Reoler-Produkt1.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Kategori-Opbevaring.html" />
       </list>
@@ -121,7 +124,7 @@
       <workItem from="1607709040850" duration="3791000" />
       <workItem from="1607757086909" duration="3156000" />
       <workItem from="1607770495702" duration="2810000" />
-      <workItem from="1607929036618" duration="15973000" />
+      <workItem from="1607929036618" duration="17296000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607945795196</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Jquery indstillet i Beskrivelse, Specs og Pleje">
+      <created>1607947435992</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607947435992</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +231,7 @@
     <MESSAGE value="Produkter ændret på opbevaring.html" />
     <MESSAGE value="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op" />
     <MESSAGE value="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst" />
+    <MESSAGE value="Jquery indstillet i Beskrivelse, Specs og Pleje" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jquery indstillet i Beskrivelse, Specs og Pleje" />
   </component>
 </project>
