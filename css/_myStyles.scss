@@ -114,4 +114,38 @@ footer h4{
   padding: 15px;
 }
 
+.produkt img{
+  height: auto!important;
+  width: auto!important;
+}
 
+.productimage img{
+  height: auto!important;
+  width: 340px!important;
+}
+
+.price{
+  font-size: 45px!important;
+}
+
+.stock-status {
+  font-size: 20px !important;
+}
+
+.stock-status img{
+  height: 25px!important;
+}
+
+.delivery a{
+  color: #1e0808;
+  text-decoration-line: underline!important;
+}
+
+.add-to-basket button{
+  border-radius: 1px!important;
+  border: 1px solid black;
+}
+
+.product-section li{
+  cursor: pointer!important;
+}
