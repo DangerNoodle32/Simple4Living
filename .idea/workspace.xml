@@ -22,6 +22,7 @@
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reoler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
@@ -45,33 +46,62 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lNcsw83A7sIZ2PGIp3w8cwDzfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Reoler-Produkt1.html">
-    <configuration name="Kategori-Opbevaring.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/Kategori-Opbevaring.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Reoler-Produkt1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/Reoler-Produkt1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gulp.js.build">
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>build</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="js" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>js</task>
+      </tasks>
       <arguments />
       <envs />
       <method v="2" />
@@ -100,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Reoler-Produkt1.html" />
         <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.styles" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.Kategori-Opbevaring.html" />
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Gulp.js.build" />
+        <item itemvalue="Gulp.js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -117,14 +147,10 @@
       <option name="presentableId" value="Default" />
       <updated>1607441199195</updated>
       <workItem from="1607441200371" duration="7028000" />
-      <workItem from="1607448471653" duration="1712000" />
-      <workItem from="1607528778915" duration="1427000" />
-      <workItem from="1607530259088" duration="52000" />
-      <workItem from="1607530358773" duration="17000" />
-      <workItem from="1607709040850" duration="3791000" />
-      <workItem from="1607757086909" duration="3156000" />
-      <workItem from="1607770495702" duration="2810000" />
-      <workItem from="1607929036618" duration="17296000" />
+      <workItem from="1607448471653" duration="1647000" />
+      <workItem from="1607501476547" duration="9530000" />
+      <workItem from="1607512844655" duration="24774000" />
+      <workItem from="1608019711325" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -140,70 +166,84 @@
       <option name="project" value="LOCAL" />
       <updated>1607449101607</updated>
     </task>
-    <task id="LOCAL-00003" summary="Forrige og næste buttons i slideshow tilpasset">
-      <created>1607450166570</created>
+    <task id="LOCAL-00003" summary="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op">
+      <created>1607507664425</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1607450166570</updated>
+      <updated>1607507664426</updated>
     </task>
-    <task id="LOCAL-00004" summary="næste section indsat">
-      <created>1607529361534</created>
+    <task id="LOCAL-00004" summary="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder">
+      <created>1607517339851</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1607529361534</updated>
+      <updated>1607517339851</updated>
     </task>
-    <task id="LOCAL-00005" summary="alt &quot;#&quot; tilføjet på billeder">
-      <created>1607530196281</created>
+    <task id="LOCAL-00005" summary="inspiration tilpasset og gjort responsiv">
+      <created>1607595136112</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1607530196281</updated>
+      <updated>1607595136112</updated>
     </task>
-    <task id="LOCAL-00006" summary="col ændret på produkter under opbevaring.html">
-      <created>1607712848186</created>
+    <task id="LOCAL-00006" summary="Nyhedsbrev tilføjet">
+      <created>1607598037720</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1607712848186</updated>
+      <updated>1607598037720</updated>
     </task>
-    <task id="LOCAL-00007" summary="Produkter ændret på opbevaring.html">
-      <created>1607760263833</created>
+    <task id="LOCAL-00007" summary="Footer sat ind og tilpasset">
+      <created>1607600492367</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1607760263833</updated>
+      <updated>1607600492367</updated>
     </task>
-    <task id="LOCAL-00008" summary="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op">
-      <created>1607772389004</created>
+    <task id="LOCAL-00008" summary="tekst i footer tilpasset">
+      <created>1607600633633</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1607772389004</updated>
+      <updated>1607600633633</updated>
     </task>
-    <task id="LOCAL-00009" summary="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op">
-      <created>1607773307945</created>
+    <task id="LOCAL-00009" summary="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;">
+      <created>1607603207877</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1607773307945</updated>
+      <updated>1607603207877</updated>
     </task>
-    <task id="LOCAL-00010" summary="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst">
-      <created>1607945795196</created>
+    <task id="LOCAL-00010" summary="Padding ændret ved fragt, retur og support">
+      <created>1607603377159</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1607945795196</updated>
+      <updated>1607603377159</updated>
     </task>
-    <task id="LOCAL-00011" summary="Jquery indstillet i Beskrivelse, Specs og Pleje">
-      <created>1607947435992</created>
+    <task id="LOCAL-00011" summary="Navne tilføjet til &quot;musthave&quot; produkter">
+      <created>1607603903284</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1607947435992</updated>
+      <updated>1607603903284</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Boks med logo sat længere op på siden">
+      <created>1607604043780</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607604043780</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Produkter tilføjet">
+      <created>1607688704864</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607688704864</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,16 +262,20 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Banner sat ind&#10;Slideshow med nyheder igangsat" />
     <MESSAGE value="Slideshow sat op&#10;mangler bare korrekte billeder" />
-    <MESSAGE value="Forrige og næste buttons i slideshow tilpasset" />
-    <MESSAGE value="næste section indsat" />
-    <MESSAGE value="alt &quot;#&quot; tilføjet på billeder" />
-    <MESSAGE value="col ændret på produkter under opbevaring.html" />
-    <MESSAGE value="Produkter ændret på opbevaring.html" />
-    <MESSAGE value="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op" />
-    <MESSAGE value="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst" />
-    <MESSAGE value="Jquery indstillet i Beskrivelse, Specs og Pleje" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jquery indstillet i Beskrivelse, Specs og Pleje" />
+    <MESSAGE value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
+    <MESSAGE value="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder" />
+    <MESSAGE value="inspiration tilpasset og gjort responsiv" />
+    <MESSAGE value="Nyhedsbrev tilføjet" />
+    <MESSAGE value="Footer sat ind og tilpasset" />
+    <MESSAGE value="tekst i footer tilpasset" />
+    <MESSAGE value="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;" />
+    <MESSAGE value="Padding ændret ved fragt, retur og support" />
+    <MESSAGE value="Navne tilføjet til &quot;musthave&quot; produkter" />
+    <MESSAGE value="Boks med logo sat længere op på siden" />
+    <MESSAGE value="Produkter tilføjet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Produkter tilføjet" />
   </component>
 </project>
