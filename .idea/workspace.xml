@@ -20,20 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Reol 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Reol 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Reol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Skab1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/TV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Træreol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kommode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reol 4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reol cykel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reol hvid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reol hylder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reol skab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/reolstativ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trappe reol.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vatrineskab1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kategori-Opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,9 +80,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Kode\Simple4Living\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Kode\Simple4Living\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Gulp.js.build">
     <configuration default="true" type="js.build_tools.gulp">
@@ -130,15 +172,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.styles" />
+        <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.default" />
         <item itemvalue="Gulp.js.build" />
         <item itemvalue="Gulp.js.js" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="" />
@@ -151,6 +196,7 @@
       <workItem from="1607501476547" duration="9530000" />
       <workItem from="1607512844655" duration="24774000" />
       <workItem from="1608019711325" duration="2066000" />
+      <workItem from="1608022992655" duration="10477000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -247,19 +293,20 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
