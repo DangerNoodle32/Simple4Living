@@ -171,3 +171,19 @@ footer h4{
 .text-area{
   height: 150px!important;
 }
+
+table {
+  font-family: Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

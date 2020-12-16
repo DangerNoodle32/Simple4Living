@@ -182,8 +182,8 @@
 
         <div class="col-12 col-md-8">
 
-            <h1>Ellie reol</h1>
-            <h3>Reol m. 4 hylder, 100x170x50 cm</h3>
+            <h1>Ellie Reol</h1>
+            <h3>Reol m. 4 hylder, 120x185x40 cm</h3>
 
             <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
                 <ol class="breadcrumb m-0 bg-light px-0">
@@ -195,7 +195,7 @@
 
         </div>
 
-        <div class="productimage col-12 col-md-6 mb-3 mb-md-0 my-auto">
+        <div class="productimage col-12 col-md-6 mb-3 mb-md-0">
 
             <img class="mx-auto" src="images/Træreol.jpg" alt="#">
 
@@ -205,7 +205,7 @@
 
             <div class="text-center">
 
-                <div class="price">DKK 149,-</div>
+                <div class="price">DKK 199,-</div>
 
                 <br>
 
@@ -214,7 +214,7 @@
                     <div class="p-3 mx-1" style="background-color: black"></div>
                     <div class="p-3 mx-1" style="background-color: white"></div>
                     <div class="p-3 mx-1" style="background-color: #775643"></div>
-                    <div class="p-3 mx-1" style="background-color: grey"></div>
+                    <div class="p-3 mx-1" style="background-color: #E4C484"></div>
 
                 </div>
 
@@ -251,31 +251,29 @@
     <div class="container product-section">
 
         <div class="row product-section">
-            <div class="border px-3 bg-primary">
+            <div class="border col-lg-4 px-3 bg-primary">
                 <ul class="row clearfix list-unstyled">
-                    <li id="tabdescription" class="px-2 p-md-3">Beskrivelse</li>
-                    <li id="tabspec" class="border-left border-right px-2 p-md-3">Specifikationer</li>
-                    <li id="tabcare" class="px-2 p-md-3">Pleje</li>
+                    <li id="tabdescription" class="p-3 m-auto">Beskrivelse</li>
+                    <div class="vl mx-auto"></div>
+                    <li id="tabspec" class="p-3 m-auto">Specifikationer</li>
                 </ul>
             </div>
 
-
-            <div class="col-lg-9 border p-3">
+            <div class="col-lg-9 p-3 border">
 
                 <div id="description" class="active">
 
                     <div class="content">
 
-                        <p class="text-left">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                            doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
-                            quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas
-                            sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-                            voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-                            consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
-                            dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-                            exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-                            consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-                            molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
+                        <p class="text-left">Ellie reolen er lavet af lyst træ, med 4 hylder.
+                            <br><br>
+                            Den fås i flere farver, som hvid, sort, mørkt og lyst træ.
+                            <br><br>
+                            Maks. belastningen for hylderne er 12 kg.
+                            <br><br>
+                            Varen leveres usamlet.
+
+                        </p>
 
                     </div>
 
@@ -285,18 +283,51 @@
 
                     <div class="content">
 
-                        <p class="text-left">"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-                            doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et</p>
+                        <table class="col-6 col-sm-6 col-md-6 col-lg-6">
+                            <h5 class="text-left">Produktmål</h5>
+                            <tr>
+                                <th>Størelse samlet</th>
+                                <th></th>
+                            </tr>
 
-                    </div>
+                            <tr>
+                                <td>Brede</td>
+                                <td>120 cm</td>
+                            </tr>
+                            <tr>
+                                <td>Højde</td>
+                                <td>185 cm</td>
+                            </tr>
+                            <tr>
+                                <td>Dybde</td>
+                                <td>40 cm</td>
+                            </tr>
 
-                </div>
+                            <tr>
+                                <th>Størelse usamlet</th>
+                                <th></th>
+                            </tr>
 
-                <div id="care">
+                            <tr>
+                                <td>Brede</td>
+                                <td>60 cm</td>
+                            </tr>
+                            <tr>
+                                <td>Højde</td>
+                                <td>23 cm</td>
+                            </tr>
+                            <tr>
+                                <td>Dybde</td>
+                                <td>45 cm</td>
+                            </tr>
 
-                    <div class="content">
+                            <br>
+                            <tr>
+                                <td>Vægt</td>
+                                <td>16 kg.</td>
+                            </tr>
 
-                        <p class="text-left">HGshfikshfkshikghkshngkh sklgh slk</p>
+                        </table>
 
                     </div>
 
@@ -390,21 +421,14 @@
     $(document).ready(function () {
         $("#tabspec").click(function () {
             $("#description").hide();
-            $("#care").hide();
             $("#spec").show();
         });
 
         $("#tabdescription").click(function () {
             $("#spec").hide();
-            $("#care").hide();
             $("#description").show();
         });
 
-        $("#tabcare").click(function () {
-            $("#spec").hide();
-            $("#description").hide();
-            $("#care").show();
-        });
     });
 
 </script>
