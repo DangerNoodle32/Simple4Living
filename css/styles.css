@@ -7258,8 +7258,7 @@ hr {
   width: auto !important; }
 
 button {
-  border-radius: 50px !important;
-  font-family: Helvetica, serif; }
+  font-family: Helvetica, sans-serif; }
 
 .inspiration {
   height: auto !important;
@@ -7316,6 +7315,9 @@ footer h4 {
 .vl {
   border-left: 1px solid white; }
 
+.text-area {
+  height: 150px !important; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7369,6 +7371,8 @@ footer h4 {
     width: auto !important; }
   .inspiration {
     height: 500px !important;
+    width: 100% !important; }
+  iframe {
     width: 100% !important; } }
 
 /* EGEN RESPONSIVE CSS SLUT */

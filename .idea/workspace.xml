@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kategori-Opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reoler-Produkt2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reoler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
@@ -64,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SKVULP1" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -180,7 +177,7 @@
       <workItem from="1607501476547" duration="9530000" />
       <workItem from="1607512844655" duration="24774000" />
       <workItem from="1608019711325" duration="2066000" />
-      <workItem from="1608022992655" duration="15880000" />
+      <workItem from="1608022992655" duration="18533000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -280,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608034402028</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="description box tilpasset">
+      <created>1608113127902</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608113127902</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +319,7 @@
     <MESSAGE value="Boks med logo sat længere op på siden" />
     <MESSAGE value="Produkter tilføjet" />
     <MESSAGE value="Produkter tilføjet til kategori reoler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Produkter tilføjet til kategori reoler" />
+    <MESSAGE value="description box tilpasset" />
+    <option name="LAST_COMMIT_MESSAGE" value="description box tilpasset" />
   </component>
 </project>
