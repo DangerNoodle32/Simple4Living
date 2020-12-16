@@ -20,22 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kategori-Opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,18 +69,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Kode\Simple4Living\images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Gulp.js.build">
     <configuration default="true" type="js.build_tools.gulp">
@@ -153,15 +137,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gulp.js.styles" />
         <item itemvalue="Gulp.js.watch" />
-        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="Gulp.js.styles" />
         <item itemvalue="Gulp.js.build" />
+        <item itemvalue="Gulp.js.default" />
         <item itemvalue="Gulp.js.js" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -178,6 +162,7 @@
       <workItem from="1607512844655" duration="24774000" />
       <workItem from="1608019711325" duration="2066000" />
       <workItem from="1608022992655" duration="18533000" />
+      <workItem from="1608117385477" duration="3512000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -288,20 +273,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -321,5 +305,71 @@
     <MESSAGE value="Produkter tilføjet til kategori reoler" />
     <MESSAGE value="description box tilpasset" />
     <option name="LAST_COMMIT_MESSAGE" value="description box tilpasset" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1608118234797">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608118234797" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1608118234795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1608118234795" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1608118234794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1608118234794" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1608118234796">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1608118234796" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1608118221398">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608118221398" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1608118221397">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1608118221397" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1608118221396">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1608118221396" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1608118221397">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1608118221397" />
+    <state width="1398" height="304" key="GridCell.Tab.2.bottom" timestamp="1608118221399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608118221399" />
+    <state width="1398" height="304" key="GridCell.Tab.2.center" timestamp="1608118221399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1608118221399" />
+    <state width="1398" height="304" key="GridCell.Tab.2.left" timestamp="1608118221398">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1608118221398" />
+    <state width="1398" height="304" key="GridCell.Tab.2.right" timestamp="1608118221399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1608118221399" />
+    <state width="1398" height="304" key="GridCell.Tab.3.bottom" timestamp="1608118221401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1608118221401" />
+    <state width="1398" height="304" key="GridCell.Tab.3.center" timestamp="1608118221400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1608118221400" />
+    <state width="1398" height="304" key="GridCell.Tab.3.left" timestamp="1608118221400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1608118221400" />
+    <state width="1398" height="304" key="GridCell.Tab.3.right" timestamp="1608118221401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1608118221401" />
   </component>
 </project>
