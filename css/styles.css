@@ -7310,11 +7310,11 @@ footer h4 {
 #spec {
   display: none; }
 
-#care {
-  display: none; }
-
 .price-info-container {
   border: 1px solid black !important; }
+
+.vl {
+  border-left: 1px solid white; }
 
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */

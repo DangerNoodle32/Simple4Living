@@ -20,30 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Reol 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Reol 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Reol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Skab1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/TV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Træreol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kommode.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reol 4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reol cykel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reol hvid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reol hylder.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reol skab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reolstativ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/trappe reol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vatrineskab1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kategori-Opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reoler-Produkt2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +180,7 @@
       <workItem from="1607501476547" duration="9530000" />
       <workItem from="1607512844655" duration="24774000" />
       <workItem from="1608019711325" duration="2066000" />
-      <workItem from="1608022992655" duration="10477000" />
+      <workItem from="1608022992655" duration="15880000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -289,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607688704864</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Produkter tilføjet til kategori reoler">
+      <created>1608034402028</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608034402028</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +314,7 @@
     <MESSAGE value="Navne tilføjet til &quot;musthave&quot; produkter" />
     <MESSAGE value="Boks med logo sat længere op på siden" />
     <MESSAGE value="Produkter tilføjet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Produkter tilføjet" />
+    <MESSAGE value="Produkter tilføjet til kategori reoler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Produkter tilføjet til kategori reoler" />
   </component>
 </project>
