@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Om os.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Simple4Living om os.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Om os.html" beforeDir="false" afterPath="$PROJECT_DIR$/Om os.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler-Produkt2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reoler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_computer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_computer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/_myStyles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/_myStyles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
@@ -70,10 +70,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Kode\Simple4Living\images" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Kode\Simple4Living\images" />
     </key>
   </component>

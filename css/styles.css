@@ -7331,6 +7331,10 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd; }
 
+.billedetilomos {
+  height: 600px;
+  width: auto; }
+
 /* EGEN CSS SLUT */
 /* ------------------------------------------------------------- */
 /* EGEN RESPONSIVE CSS START */
@@ -7386,7 +7390,10 @@ tr:nth-child(even) {
     height: 500px !important;
     width: 100% !important; }
   iframe {
-    width: 100% !important; } }
+    width: 100% !important; }
+  .billedetilomos {
+    height: 500px;
+    width: auto; } }
 
 /* EGEN RESPONSIVE CSS SLUT */
 /* ------------------------------------------------------------- */
