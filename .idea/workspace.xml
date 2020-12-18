@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kategori-Opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nyheder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nyhedsbanner1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +124,7 @@
       <workItem from="1607757086909" duration="3156000" />
       <workItem from="1607770495702" duration="2810000" />
       <workItem from="1607929036618" duration="17543000" />
-      <workItem from="1608284908773" duration="1441000" />
+      <workItem from="1608284908773" duration="4915000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -209,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607948670854</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="rows ændret og col-12 indsat på alle bokse">
+      <created>1608286421008</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608286421008</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +247,7 @@
     <MESSAGE value="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst" />
     <MESSAGE value="Jquery indstillet i Beskrivelse, Specs og Pleje" />
     <MESSAGE value="Farver tilpasset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Farver tilpasset" />
+    <MESSAGE value="rows ændret og col-12 indsat på alle bokse" />
+    <option name="LAST_COMMIT_MESSAGE" value="rows ændret og col-12 indsat på alle bokse" />
   </component>
 </project>
