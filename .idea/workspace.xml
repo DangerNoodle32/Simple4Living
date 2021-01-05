@@ -19,16 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="" />
+    <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,7 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lNcsw83A7sIZ2PGIp3w8cwDzfS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,64 +52,27 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Gulp.js.build">
+  <component name="RunManager" selected="JavaScript Debug.Reoler-Produkt1.html">
+    <configuration name="Kategori-Opbevaring.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/Kategori-Opbevaring.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Reoler-Produkt1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/Reoler-Produkt1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Simple4Living/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="build" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>build</task>
-      </tasks>
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="default" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>default</task>
-      </tasks>
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="js" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>js</task>
-      </tasks>
       <arguments />
       <envs />
       <method v="2" />
@@ -137,18 +101,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Reoler-Produkt1.html" />
         <item itemvalue="Gulp.js.watch" />
         <item itemvalue="Gulp.js.styles" />
-        <item itemvalue="Gulp.js.default" />
-        <item itemvalue="Gulp.js.build" />
-        <item itemvalue="Gulp.js.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Kategori-Opbevaring.html" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="" />
@@ -157,11 +118,19 @@
       <option name="presentableId" value="Default" />
       <updated>1607441199195</updated>
       <workItem from="1607441200371" duration="7028000" />
-      <workItem from="1607448471653" duration="1647000" />
-      <workItem from="1607501476547" duration="9530000" />
-      <workItem from="1607512844655" duration="24774000" />
-      <workItem from="1608019711325" duration="2743000" />
-      <workItem from="1609567405718" duration="946000" />
+      <workItem from="1607448471653" duration="1712000" />
+      <workItem from="1607528778915" duration="1427000" />
+      <workItem from="1607530259088" duration="52000" />
+      <workItem from="1607530358773" duration="17000" />
+      <workItem from="1607709040850" duration="3791000" />
+      <workItem from="1607757086909" duration="3156000" />
+      <workItem from="1607770495702" duration="2810000" />
+      <workItem from="1607929036618" duration="17543000" />
+      <workItem from="1608284908773" duration="5012000" />
+      <workItem from="1609580070766" duration="1052000" />
+      <workItem from="1609582771810" duration="855000" />
+      <workItem from="1609584799987" duration="39000" />
+      <workItem from="1609589604136" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -177,96 +146,96 @@
       <option name="project" value="LOCAL" />
       <updated>1607449101607</updated>
     </task>
-    <task id="LOCAL-00003" summary="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op">
-      <created>1607507664425</created>
+    <task id="LOCAL-00003" summary="Forrige og næste buttons i slideshow tilpasset">
+      <created>1607450166570</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1607507664426</updated>
+      <updated>1607450166570</updated>
     </task>
-    <task id="LOCAL-00004" summary="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder">
-      <created>1607517339851</created>
+    <task id="LOCAL-00004" summary="næste section indsat">
+      <created>1607529361534</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1607517339851</updated>
+      <updated>1607529361534</updated>
     </task>
-    <task id="LOCAL-00005" summary="inspiration tilpasset og gjort responsiv">
-      <created>1607595136112</created>
+    <task id="LOCAL-00005" summary="alt &quot;#&quot; tilføjet på billeder">
+      <created>1607530196281</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1607595136112</updated>
+      <updated>1607530196281</updated>
     </task>
-    <task id="LOCAL-00006" summary="Nyhedsbrev tilføjet">
-      <created>1607598037720</created>
+    <task id="LOCAL-00006" summary="col ændret på produkter under opbevaring.html">
+      <created>1607712848186</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1607598037720</updated>
+      <updated>1607712848186</updated>
     </task>
-    <task id="LOCAL-00007" summary="Footer sat ind og tilpasset">
-      <created>1607600492367</created>
+    <task id="LOCAL-00007" summary="Produkter ændret på opbevaring.html">
+      <created>1607760263833</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1607600492367</updated>
+      <updated>1607760263833</updated>
     </task>
-    <task id="LOCAL-00008" summary="tekst i footer tilpasset">
-      <created>1607600633633</created>
+    <task id="LOCAL-00008" summary="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op">
+      <created>1607772389004</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1607600633633</updated>
+      <updated>1607772389004</updated>
     </task>
-    <task id="LOCAL-00009" summary="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;">
-      <created>1607603207877</created>
+    <task id="LOCAL-00009" summary="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op">
+      <created>1607773307945</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1607603207877</updated>
+      <updated>1607773307945</updated>
     </task>
-    <task id="LOCAL-00010" summary="Padding ændret ved fragt, retur og support">
-      <created>1607603377159</created>
+    <task id="LOCAL-00010" summary="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst">
+      <created>1607945795196</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1607603377159</updated>
+      <updated>1607945795196</updated>
     </task>
-    <task id="LOCAL-00011" summary="Navne tilføjet til &quot;musthave&quot; produkter">
-      <created>1607603903284</created>
+    <task id="LOCAL-00011" summary="Jquery indstillet i Beskrivelse, Specs og Pleje">
+      <created>1607947435992</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1607603903284</updated>
+      <updated>1607947435992</updated>
     </task>
-    <task id="LOCAL-00012" summary="Boks med logo sat længere op på siden">
-      <created>1607604043780</created>
+    <task id="LOCAL-00012" summary="Farver tilpasset">
+      <created>1607948670854</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1607604043780</updated>
+      <updated>1607948670854</updated>
     </task>
-    <task id="LOCAL-00013" summary="Produkter tilføjet">
-      <created>1607688704864</created>
+    <task id="LOCAL-00013" summary="rows ændret og col-12 indsat på alle bokse">
+      <created>1608286421008</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1607688704864</updated>
+      <updated>1608286421008</updated>
     </task>
-    <task id="LOCAL-00014" summary="Reoler-Produkt1.html tilpasset">
-      <created>1608022405909</created>
+    <task id="LOCAL-00014" summary="billede erstattet i nyhed">
+      <created>1608292429613</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1608022405909</updated>
+      <updated>1608292429613</updated>
     </task>
-    <task id="LOCAL-00015" summary="Adresse ændret i Kontakt.html">
-      <created>1609579396521</created>
+    <task id="LOCAL-00015" summary="billede tilføjet">
+      <created>1608292452546</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1609579396522</updated>
+      <updated>1608292452546</updated>
     </task>
     <option name="localTasksCounter" value="16" />
     <servers />
@@ -279,31 +248,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Banner sat ind&#10;Slideshow med nyheder igangsat" />
     <MESSAGE value="Slideshow sat op&#10;mangler bare korrekte billeder" />
-    <MESSAGE value="Slideshow tilpasset i musthave &#10;1 billede i slideshow i mobilefirst&#10;3 billeder ved siden af hinanden fra tablet og op" />
-    <MESSAGE value="Inspiration tilpasset&#10;mangler dog tilpasning af sidst to billeder" />
-    <MESSAGE value="inspiration tilpasset og gjort responsiv" />
-    <MESSAGE value="Nyhedsbrev tilføjet" />
-    <MESSAGE value="Footer sat ind og tilpasset" />
-    <MESSAGE value="tekst i footer tilpasset" />
-    <MESSAGE value="Ikoner sat ind med &quot;fragt&quot; &quot;support&quot; og &quot;retur&quot;" />
-    <MESSAGE value="Padding ændret ved fragt, retur og support" />
-    <MESSAGE value="Navne tilføjet til &quot;musthave&quot; produkter" />
-    <MESSAGE value="Boks med logo sat længere op på siden" />
-    <MESSAGE value="Produkter tilføjet" />
-    <MESSAGE value="Reoler-Produkt1.html tilpasset" />
-    <MESSAGE value="Adresse ændret i Kontakt.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adresse ændret i Kontakt.html" />
+    <MESSAGE value="Forrige og næste buttons i slideshow tilpasset" />
+    <MESSAGE value="næste section indsat" />
+    <MESSAGE value="alt &quot;#&quot; tilføjet på billeder" />
+    <MESSAGE value="col ændret på produkter under opbevaring.html" />
+    <MESSAGE value="Produkter ændret på opbevaring.html" />
+    <MESSAGE value="Kategori-Opbevaring.html&#10;Reoler.html&#10;&#10;Tilpasset og sat op" />
+    <MESSAGE value="Reoler-Produkt1.html sat op&#10;&#10;JQuery mangler med tekst" />
+    <MESSAGE value="Jquery indstillet i Beskrivelse, Specs og Pleje" />
+    <MESSAGE value="Farver tilpasset" />
+    <MESSAGE value="rows ændret og col-12 indsat på alle bokse" />
+    <MESSAGE value="billede erstattet i nyhed" />
+    <MESSAGE value="billede tilføjet" />
+    <option name="LAST_COMMIT_MESSAGE" value="billede tilføjet" />
   </component>
 </project>
