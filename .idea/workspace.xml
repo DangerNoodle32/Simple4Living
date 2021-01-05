@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reoler-Produkt2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +131,7 @@
       <workItem from="1609582771810" duration="855000" />
       <workItem from="1609584799987" duration="39000" />
       <workItem from="1609589604136" duration="2000" />
-      <workItem from="1609837089138" duration="306000" />
+      <workItem from="1609837089138" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -244,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609837198539</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Kontakt.html tilpasset i størrelse (col)">
+      <created>1609837524256</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1609837524256</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +287,7 @@
     <MESSAGE value="billede erstattet i nyhed" />
     <MESSAGE value="billede tilføjet" />
     <MESSAGE value="Padding fjernet i Om os" />
-    <option name="LAST_COMMIT_MESSAGE" value="Padding fjernet i Om os" />
+    <MESSAGE value="Kontakt.html tilpasset i størrelse (col)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kontakt.html tilpasset i størrelse (col)" />
   </component>
 </project>
