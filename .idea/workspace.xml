@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kontakt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +130,7 @@
       <workItem from="1609582771810" duration="855000" />
       <workItem from="1609584799987" duration="39000" />
       <workItem from="1609589604136" duration="2000" />
+      <workItem from="1609837089138" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="Banner sat ind&#10;Slideshow med nyheder igangsat">
       <created>1607448276464</created>
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608292452546</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Padding fjernet i Om os">
+      <created>1609837198539</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609837198539</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +278,7 @@
     <MESSAGE value="rows ændret og col-12 indsat på alle bokse" />
     <MESSAGE value="billede erstattet i nyhed" />
     <MESSAGE value="billede tilføjet" />
-    <option name="LAST_COMMIT_MESSAGE" value="billede tilføjet" />
+    <MESSAGE value="Padding fjernet i Om os" />
+    <option name="LAST_COMMIT_MESSAGE" value="Padding fjernet i Om os" />
   </component>
 </project>
