@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7773881d-60cd-4ba0-a38a-e762136c596b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/slideshow 1 nyhed på lamper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow 2 - nye sofaer ankommet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slideshow 3 - spar 20% på loftlamper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/procent.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kategori-Opbevaring.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kategori-Opbevaring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/Kontakt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Om os.html" beforeDir="false" afterPath="$PROJECT_DIR$/Om os.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reoler-Produkt1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reoler-Produkt2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler-Produkt2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reoler.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reoler.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -283,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609837524256</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="digitaltbanner/slideshow på forsiden er ændret med billederne og billedet på om os er rettet, plus noget af teksten">
+      <created>1609847435745</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1609847435745</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +329,7 @@
     <MESSAGE value="billede tilføjet" />
     <MESSAGE value="Padding fjernet i Om os" />
     <MESSAGE value="Kontakt.html tilpasset i størrelse (col)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kontakt.html tilpasset i størrelse (col)" />
+    <MESSAGE value="digitaltbanner/slideshow på forsiden er ændret med billederne og billedet på om os er rettet, plus noget af teksten" />
+    <option name="LAST_COMMIT_MESSAGE" value="digitaltbanner/slideshow på forsiden er ændret med billederne og billedet på om os er rettet, plus noget af teksten" />
   </component>
 </project>
